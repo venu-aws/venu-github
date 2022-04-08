@@ -4,3 +4,4 @@ pranam
 anni
 talli
 bisamma
+all
